@@ -14,7 +14,7 @@
     <option name="FILESTATUS_MODIFIED" value="77abc6" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="3f7ce0" />
     <option name="FILESTATUS_modifiedOutside" value="1597ef" />
-    <option name="GUTTER_BACKGROUND" value="1b282f" />
+    <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="494848" />
     <option name="LINE_NUMBERS_COLOR" value="3b8594" />
     <option name="METHOD_SEPARATORS_COLOR" value="7c7e7e" />
@@ -605,7 +605,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="edf0d1" />
+        <option name="FOREGROUND" value="998ebd" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -654,7 +654,7 @@
     </option>
     <option name="PHP_VAR">
       <value>
-        <option name="FOREGROUND" value="66d9ef" />
+        <option name="FOREGROUND" value="f6bf6f" />
       </value>
     </option>
     <option name="REGEXP.BAD_CHARACTER">
@@ -803,8 +803,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="aac2c2" />
-        <option name="BACKGROUND" value="1b282f" />
+        <option name="FOREGROUND" value="7f8683" />
+        <option name="BACKGROUND" value="272822" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
