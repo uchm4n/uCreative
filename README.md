@@ -1,7 +1,7 @@
-uCreative
-=========
+My modified PHPStorm themes
+----
 
-This is my custom PHPStorm theme, based on CreativeSide theme.
+This is my custom PHPStorm theme, based on standard theme out there..
 
 =========
 
