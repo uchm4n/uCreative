@@ -1310,10 +1310,22 @@
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="4a6381" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="547193" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -2194,4 +2206,3 @@
     </option>
   </attributes>
 </scheme>
- 
